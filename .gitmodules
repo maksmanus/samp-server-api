@@ -1,0 +1,3 @@
+[submodule "external/subhook"]
+	path = external/subhook
+	url = https://github.com/savushkin-r-d/subhook
